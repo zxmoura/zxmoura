@@ -1,15 +1,18 @@
 # Welcome to my profile
 
-Hi 👋! My name is João, 17 years, I'm a system developer
+Hi! I'm João 👋
+-> 17 years old | System Developer | Brazil
+
+I am a systems developer with a passion for technology. I'm currently delving into web development to become a Full-Stack developer.
 
 
-### Me conntate
+### contact me
 <div align="left">
 
 <a href="www.linkedin.com/in/joão-pedro-moura-93a7323bb"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a> <a href="https://www.instagram.com/zxy.moura"><img src="https://img.shields.io/badge/Instagram-FF1493?style=for-the-badge&logo=instagram&logoColor=white"></a>
 #
 
-### Linguagens | Ferramentas
+### Languages | Tools
 
 <img
     align="left"
@@ -57,7 +60,7 @@ Hi 👋! My name is João, 17 years, I'm a system developer
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linux/linux-original.svg" /><br>
           
     
-### Em aprendizzagem
+### Learning
 
 <img 
     align="left"
