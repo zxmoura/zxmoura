@@ -83,7 +83,12 @@ Hi 👋! My name is João, 17 years, I'm a system developer
     width="30px"
     style="paddling right: 10px"
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" />
-          
-          
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/v1ih/v1ih/output/pacman-contribution-graph-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/v1ih/v1ih/output/pacman-contribution-graph.svg">
+  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/v1ih/v1ih/output/pacman-contribution-graph.svg">
+</picture>
+
           
           
