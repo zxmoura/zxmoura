@@ -39,7 +39,7 @@ I am a systems developer with a passion for technology. I'm currently delving in
   <tr>
     <td valign="top">
 ### Tools  |
-      
+
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="30" />
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="30" />
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/github/github-original.svg" width="30" />
