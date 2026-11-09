@@ -38,6 +38,7 @@ I am a systems developer with a passion for technology. I'm currently delving in
   </tr>
   <tr>
     <td valign="top">
+      
 ### Tools  |
 
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="30" />
