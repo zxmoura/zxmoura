@@ -21,40 +21,25 @@ I am a systems developer with a passion for technology. I'm currently delving in
 
 </div>
 
-<table>
-  <tr>
-    <td valign="top">
+<img align="right" src="thorfin.gif" width="240" alt="Thorfinn" />
 
-### Languages |
+### 💻 Languages
+<a href="https://skillicons.dev">
+  <img src="https://skillicons.dev" />
+</a>
 
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="30" />
+### 🛠️ Tools
+<a href="https://skillicons.dev">
+  <img src="https://skillicons.dev" />
+</a>
 
+### 🌱 Currently Learning
+<a href="https://skillicons.dev">
+  <img src="https://skillicons.dev" />
+</a>
 
+<br clear="both"/>
 
-</td>
-    <td valign="top" align="right" rowspan="3">
-      <img src="thorfin.gif" width="220" />
-    </td>
-  </tr>
-  <tr>
-    <td valign="top">
-      
-### Tools  |
-
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="30" />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="30" />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/github/github-original.svg" width="30" />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="30" />
-
-### Learning |
-
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="30" />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="30" />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="30" />
-
-</td>
-  </tr>
-</table>
     
 <!-- pacman -->
 <picture data-importer="pacman">
