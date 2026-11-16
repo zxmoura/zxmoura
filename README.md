@@ -55,4 +55,8 @@ I am a systems developer with a passion for technology. I'm currently delving in
 </picture>
 
 ### 
+
+<img data-importer="snake" src="https://raw.githubusercontent.com/zxmoura/zxmoura/snake-output/snake.svg" alt="Snake animation" />
+
+###
           
