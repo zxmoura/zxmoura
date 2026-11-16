@@ -21,7 +21,7 @@ I am a systems developer with a passion for technology. I'm currently delving in
 
 </div>
 
-<img align="right" src="thorfin.gif" width="240" alt="Thorfinn" />
+<img align="right" src="img/thorfin.gif" width="240" alt="Thorfinn" />
 
 ### Languages
 <a href="https://skillicons.dev">
